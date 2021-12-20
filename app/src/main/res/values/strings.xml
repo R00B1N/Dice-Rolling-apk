@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice Rolling</string>
+    <string name="boton">Roll</string>
+</resources>
